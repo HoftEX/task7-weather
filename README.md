@@ -22,7 +22,7 @@ weather homework
 
 bash
 pip install requests
-
+python3 task7_posts.py
 
 
 `task7_weather.py` — принимает название города, отправляет GET-запрос к OpenWeather
@@ -43,4 +43,4 @@ pip install requests
 Запуск:
 bash
 pip install requests
-python task2_weather.py
+python3 task7_weather.py
